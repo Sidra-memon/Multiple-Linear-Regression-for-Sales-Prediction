@@ -1,1 +1,2 @@
 # Multiple-Linear-Regression-for-Sales-Prediction
+This project implements a Multiple Linear Regression model to predict sales based on the given dataset. The project includes data preprocessing, exploratory data analysis (EDA), feature engineering, and model evaluation. Key steps involve handling missing values, scaling, encoding, and building data preprocessing pipelines. The model's performance is evaluated using metrics like Mean Squared Error (MSE) and R² score. This activity demonstrates end-to-end machine learning workflow for regression tasks.
